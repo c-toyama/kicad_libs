@@ -1,0 +1,12 @@
+gerber/
+SparkFun-KiCad-Libraries-master/
+*.swp
+*.tmp
+*.ses
+*.dsn
+*.xml
+*.kicad_pcb-bak
+*.bak
+*.bck
+*-cache.lib
+fp-info-cache
